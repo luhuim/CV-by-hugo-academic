@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+Huimin Lu
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Huimin
+last_name: LU
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master student of bioinformatics in Lund University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Lund University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
